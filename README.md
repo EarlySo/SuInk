@@ -1,5 +1,6 @@
 ### Hi there 👋
-熟悉C、Go、Pyhton、JavaScript...的单词拼写
+
+Know the spell of C, Go, Python, JavaScript...
 
 <a href="https://github.com/SuInk#gh-light-mode-only">
   <img src="https://github-readme-stats.vercel.app/api?username=SuInk&count_private=true&show_icons=true&theme=light#gh-light-mode-only" align="left" alt="My GitHub Stats" />
