@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+熟悉C、Go、JavaScript...的拼写
 
 <a href="https://github.com/SuInk#gh-light-mode-only">
   <img src="https://github-readme-stats.vercel.app/api?username=SuInk&count_private=true&show_icons=true&theme=light#gh-light-mode-only" align="left" alt="My GitHub Stats" />
